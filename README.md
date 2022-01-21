@@ -4,7 +4,7 @@
 </em></p>
 
 
-[![Linkedin: LeonFelipeRiveraRivera](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/**nombre/)](https://www.linkedin.com/in/**nombre/)
+[![Linkedin: LeonFelipeRiveraRivera](https://img.shields.io/badge/-**nombre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/**nombre/)](https://www.linkedin.com/in/**nombre/)
 [![GitHub LeonRV3](https://img.shields.io/github/followers/leonrv3?label=follow&style=social)](https://github.com/)
 
 
