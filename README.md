@@ -4,7 +4,9 @@
 </em></p>
 
 
-[![Linkedin: LeonFelipeRiveraRivera](https://img.shields.io/badge/-**nombre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/**nombre/)](https://www.linkedin.com/in/**nombre/)
+[![Linkedin: LeonFelipeRiveraRivera](https://img.shields.io/badge/-**nombre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/**nombre/)](www.linkedin.com/in/leonfeliperivera)
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="leon-felipe-rivera-rivera-b2799620a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://mx.linkedin.com/in/leon-felipe-rivera-rivera-b2799620a?trk=profile-badge">Leon Felipe Rivera Rivera</a></div>
+              
 [![GitHub LeonRV3](https://img.shields.io/github/followers/leonrv3?label=follow&style=social)](https://github.com/)
 
 
