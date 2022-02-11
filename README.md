@@ -9,9 +9,9 @@
               
 [![GitHub LeonRivera](https://img.shields.io/github/followers/leonrivera?label=follow&style=social)](https://github.com/)
 
-
-![image](https://github.com/LeonRivera/LeonRivera/blob/main/kobayashi-san-chi-no-maid-dragon-anime.gif)
-
+<p align="center">
+  <img src="https://github.com/LeonRivera/LeonRivera/blob/main/ezgif.com-gif-maker.gif" width="500" height="250" />
+</p>
 
 
 ---
