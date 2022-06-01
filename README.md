@@ -1,6 +1,6 @@
 <h2 align="center"> Hi, I'm Leon Rivera</h2>
 
-<p align="center"><em>Software Enginner at <a href="https://www.uttt.edu.mx">Universidad Tecnologica Tula Tepeji</a><!--<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">--></br>Jr Java Developer at <a href="https://mexico.praxisglobe.com/">Praxis</a> <!--<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
+<p align="center"><em>Java Software Enginner at <a href="https://www.uttt.edu.mx">Universidad Tecnologica Tula Tepeji</a><!--<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">--></br>Jr Java Developer at <a href="https://mexico.praxisglobe.com/">Praxis</a> <!--<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
 </em></p>
   
  
