@@ -13,7 +13,3 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leonrivera&show_icons=true&theme=dark&locale=en" alt="leonrivera" /></p>
 
 
-
-[![Linkedin: LeonFelipeRiveraRivera](https://img.shields.io/badge/-LeonFelipeRiveraRivera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonfeliperivera/)](https://www.linkedin.com/in/leonfeliperivera)
-
-
